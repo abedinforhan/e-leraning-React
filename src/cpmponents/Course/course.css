@@ -1,0 +1,19 @@
+.course{
+  display: flex;
+ 
+}
+.course__container{
+  width: 70%;
+  margin-right: 20px;
+  border-right: 1px solid gray;
+  display: flex;
+  flex-wrap: wrap;
+  }
+  .course__cart {
+    width: 25%;
+ }
+
+  
+  .course__container ul li{
+    font-size: 15px;
+  }
